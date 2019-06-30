@@ -5,16 +5,16 @@
 		"expiresIn":86400
 	},
 	"upload_config":{
-		"baseURL":"http://47.96.21.88:8888",//
+		"baseURL":"http://47.96.21.88:8888",
 		"upload_ueditor":"uploads/ueditor",
 		"simple_upload_redirect":"http://47.96.21.88/reload"
 	},
 	"db_config" : {
 		"protocol" : "mysql",
 		"host" : "localhost",
-		"database" : "shop",
+		"database" : "shop_admin",
 		"user" : "root",
-		"password" : "123456",
+		"password" : "root",
 		"port" : 3306
 	}
 }
